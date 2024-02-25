@@ -6,4 +6,4 @@ HTML ve CSS ile düzenlendi
 
 # GIF
 
-![](e-commerce img/ecommerce.gif)
+![](img/ecommerce.gif)
